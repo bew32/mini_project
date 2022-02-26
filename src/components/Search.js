@@ -33,7 +33,7 @@ const Search = () => {
               <button
                 type="submit"
                 className="btn btn-success px-5">
-                ค้นหา
+                Search
               </button>
             </div>
           </div>
